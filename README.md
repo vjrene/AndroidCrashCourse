@@ -1,5 +1,5 @@
 # AndroidCrashCourse
-from the crash course on Fri 02/24/2017
+From the crash course I led at Pace University on Fri 02/24/2017
 
 A simple "drink coffee" app. Click a button to "pour and enjoy" the coffee! (Switch between images)
 Utilizing intents, drawable resources, onClickListeners
